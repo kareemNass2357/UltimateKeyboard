@@ -8,7 +8,7 @@ All that without moving your hands, a blind typer dream come true
 * [Some of the features](#Some-of-the-features)
 * [How to install and use](#How-to-install-and-use)
 * [Technologies](#technologies)
-* [Short cuts](#Shortcuts)
+* [Shortcuts](#Shortcuts)
 * [Mouse Mode](#Mouse-Mode)
 * [Multitasker Mode](#Multitasker-Mode)
 * [Contact](#contact)
@@ -31,14 +31,17 @@ All that without moving your hands, a blind typer dream come true
 3. Enjoy :D
 
 ## Shortcuts
+
 shortcuts while holding *Caps lock*
-
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/capslock.PNG?raw=true)
 ## Mouse Mode
+
 shortcuts holding pressing *Space*
-
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/mouse%20mode.PNG?raw=true)
 ## Multitasker Mode
-shortcuts while holding *Alt*
 
+shortcuts while holding *Alt*
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/multitask%20mode.PNG?raw=true)
 
 
 ## contact:
