@@ -25,9 +25,9 @@ All that without moving your hands, a blind typer dream come true
 # How to install and use
 1. download and open the .exe file 
 2. preferable to add it to windows start up folder
-  2.1. press   start button + R
-  2.2. type in the run dialog box  "shell:startup"
-  2.3. add the ultimate guitar exe file to the opened folder
+  * press   start button + R
+  * type in the run dialog box  "shell:startup"
+  * add the ultimate guitar exe file to the opened folder
 3. Enjoy :D
 
 ## Shortcuts
