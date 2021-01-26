@@ -8,9 +8,9 @@ All that without moving your hands, a blind typer dream come true
 * [Some of the features](#Some-of-the-features)
 * [How to install and use](#How-to-install-and-use)
 * [Technologies](#technologies)
-* [Short cuts](#shortcuts-while-holding-Caps-lock)
-* [Mouse mode](#Mouse-mode-/-shortcuts-holding-pressing-pace)
-* [Multitasker mode](#Multitasker-/-short-cuts-while-holding-Alt)
+* [Short cuts](#Shortcuts)
+* [Mouse Mode](#Mouse-Mode)
+* [Multitasker Mode](#Multitasker-Mode)
 * [Contact](#contact)
 
 
@@ -30,11 +30,14 @@ All that without moving your hands, a blind typer dream come true
 2.3. add the ultimate guitar exe file to the opened folder
 3. Enjoy :D
 
-## Shortcuts while holding *Caps lock*
+## Shortcuts
+shortcuts while holding *Caps lock*
 
-## Mouse mode / shortcuts holding pressing *Space*
+## Mouse Mode
+shortcuts holding pressing *Space*
 
-## Multitasker / shortcuts while holding *Alt*
+## Multitasker Mode
+shortcuts while holding *Alt*
 
 
 
