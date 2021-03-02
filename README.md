@@ -35,15 +35,27 @@ All that without moving your hands, a blind typer dream come true
 
 shortcuts while holding *Caps lock*
 ![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/capslock.PNG?raw=true)
+
+### tricks:
+* the context menu (CapsLock & ? )is extremely useful when working with the keyboard only , it does the same effect as a mouse left click 
+
+
 ## Mouse Mode
 
 shortcuts holding pressing *Space*
 ![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/mouse%20mode.PNG?raw=true)
+
+
+### tricks:
+* make the mouse faster (space & +) to move around the screen fast, when needing to click on something precise you can toggle the mouse to slow speed by pressing (space & Y), when done with your precise movements , you can return to normal mouse mode (space & Y)
+
 ## Multitasker Mode
 
 shortcuts while holding *Alt*
 ![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/multitask%20mode.PNG?raw=true)
 
+### tricks:
+* Watching your favorite netflix series while still using full screen apps even on a single screen :), click on netflix , turn it transparent to the desired degree (alt & D) , then make it always on top (alt & Q) , and make it click through (alt & S)
 
 ## contact:
 Kareem Nassrallah
