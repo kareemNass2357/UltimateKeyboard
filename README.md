@@ -16,6 +16,7 @@ All that without moving your hands, a blind typer dream come true
 
 
 ## *Some* of the features:
+* use all shortcuts without moving your hands (perfect for blind typers)
 * control the mouse with your keybaord
 * control windoows , virtual desktops
 * turn the screen off to preserve battery
