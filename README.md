@@ -5,6 +5,7 @@ Controling everything in your computer to become a superior power user.
 
 All that without moving your hands, a blind typer dream come true.
 
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/ultimate%20keyboard%20flyer.jpg?raw=true)
 
 ## Table of contents
 * [Some of the features](#Some-of-the-features)
@@ -36,7 +37,7 @@ All that without moving your hands, a blind typer dream come true.
 ## Shortcuts
 
 shortcuts while holding *Caps lock*
-![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/capslock.PNG?raw=true)
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/instructions/capslock.PNG?raw=true)
 
 ### tricks:
 * the context menu (CapsLock & ? )is extremely useful when working with the keyboard only , it does the same effect as a mouse left click.
@@ -45,7 +46,7 @@ shortcuts while holding *Caps lock*
 ## Mouse Mode
 
 shortcuts holding pressing *Space*
-![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/mouse%20mode.PNG?raw=true)
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/instructions/mouse%20mode.PNG?raw=true)
 
 
 ### tricks:
@@ -54,7 +55,7 @@ shortcuts holding pressing *Space*
 ## Multitasker Mode
 
 shortcuts while holding *Alt*
-![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/multitask%20mode.PNG?raw=true)
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/instructions/multitask%20mode.PNG?raw=true)
 
 ### tricks:
 * Watching your favorite netflix series while still using full screen apps even on a single screen :), click on netflix , turn it transparent to the desired degree (alt & D), then make it always on top (alt & Q) , and make it click through (alt & S).
