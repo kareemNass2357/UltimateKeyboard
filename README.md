@@ -5,7 +5,7 @@ Controling everything in your computer to become a superior power user.
 
 All that without moving your hands, a blind typer dream come true.
 
-![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/ultimate%20keyboard%20flyer.jpg?raw=true)
+![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/ultimate%20keyboard%20%20flyer.jpg?raw=true)
 
 ## Table of contents
 * [Some of the features](#Some-of-the-features)
