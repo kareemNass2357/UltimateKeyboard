@@ -40,7 +40,7 @@ shortcuts while holding *Caps lock*
 ![alt text](https://github.com/kareemNass2357/UltimateKeyboard/blob/main/instructions/capslock.PNG?raw=true)
 
 ### tricks:
-* the context menu (CapsLock & ? )is extremely useful when working with the keyboard only , it does the same effect as a mouse left click.
+* the context menu (CapsLock & ? )is extremely useful when working with the keyboard only , it does the same effect as a mouse right click.
 
 
 ## Mouse Mode
@@ -62,7 +62,8 @@ shortcuts while holding *Alt*
 
 
 ## known issues
-* with the new windows updates the language changing shortcut (capslock + b) stopped working for some of the people
+* with the new windows updates , the language changing shortcut (capslock + b) stopped working for some of the people.
+* with the new windows updates , the brightness changing shortcut (capslock + F7/F8) stopped working for some of the people.
 
 ## contact:
 Kareem Nassrallah
