@@ -60,6 +60,10 @@ shortcuts while holding *Alt*
 ### tricks:
 * Watching your favorite netflix series while still using full screen apps even on a single screen :), click on netflix , turn it transparent to the desired degree (alt & D), then make it always on top (alt & Q) , and make it click through (alt & S).
 
+
+## known issues
+* with the new windows updates the language changing shortcut (capslock + b) stopped working for some of the people
+
 ## contact:
 Kareem Nassrallah
 
